@@ -18,10 +18,13 @@ a {
 
 .name {
  border: 3px solid black;
+  width: 75%;
 }
 
 .social-media-link {
    border: 3px solid black;
+  width: 25%;
+  background-color: red;
 }
 
 .all-columns {
@@ -30,5 +33,6 @@ a {
 }
 
 .column {
- border: 3px solid black;
+  border: 3px solid black;
+  width: 33.33%;
 }
