@@ -13,6 +13,7 @@ a {
 
 .title-container {
   border: 3px solid green;
+  display: flex;
 }
 
 .name {
@@ -25,6 +26,7 @@ a {
 
 .all-columns {
  border: 3px solid green;
+  display: flex;
 }
 
 .column {
