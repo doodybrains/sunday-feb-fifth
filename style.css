@@ -10,3 +10,23 @@ a {
   text-decoration: none;
   font-size: 20px;
 }
+
+.title-container {
+  border: 3px solid green;
+}
+
+.name {
+ border: 3px solid black;
+}
+
+.social-media-link {
+   border: 3px solid black;
+}
+
+.all-columns {
+ border: 3px solid green;
+}
+
+.column {
+ border: 3px solid black;
+}
