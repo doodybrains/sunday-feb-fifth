@@ -35,4 +35,5 @@ a {
 .column {
   border: 3px solid black;
   width: 33.33%;
+  padding: 20px 10px 10px 10px;
 }
